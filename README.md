@@ -84,8 +84,6 @@ Face recognition demands care. Snapseek is built to hold as little personal data
 
 ## Status
 
-Snapseek is an active final-year project (BSc). The application is fully functional end-to-end; deployment is in preparation.
-
 **The source code is private.** I'm happy to walk through the codebase and architecture in detail [get in touch](mailto:izaacoteng@gmail.com).
 
 ---
